@@ -1,0 +1,8 @@
+.search{
+    margin-bottom: 7px;
+}
+.main-cont{
+    min-height: 430px;
+    max-height: auto;
+    overflow-x: scroll;
+}

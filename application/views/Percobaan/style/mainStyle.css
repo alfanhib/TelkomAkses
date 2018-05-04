@@ -1,0 +1,28 @@
+.inputData {
+    margin-bottom: 7px;
+}
+
+.dashboard {}
+
+.dashboard-head {
+    padding: 30px;
+}
+
+.dashboard-head h3 {
+    color: #F5F5F5;
+}
+
+.dashboard-body {}
+
+.dashboard-body-item {
+    padding: 10px;
+    background-color: #F5F5F5;
+}
+
+.dashboard-body-item:hover {
+    background-color: #E0E0E0;
+}
+
+.dashboard-body-item a {
+    color: #263238;
+}

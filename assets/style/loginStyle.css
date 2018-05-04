@@ -1,0 +1,61 @@
+.head {
+    display: none;
+}
+
+.cont {
+    padding: 140px;
+    min-height: 100vh;
+}
+
+.main {
+    min-height: auto;
+    border-radius: 0px;
+    padding-top: 0px;
+}
+
+.main-cont {
+    min-height: auto;
+    padding-top: 15px;
+}
+
+.tabBtn {
+    padding: 7px;
+    color: #FAFAFA;
+    background-color: #C62828;
+}
+
+.tabBtn:hover {
+    background-color: #F5F5F5;
+    cursor: pointer;
+    color: #424242;
+}
+
+.tabBtn:active {
+    color: #424242;
+}
+
+.active {
+    color: #424242;
+    background-color: #FAFAFA;
+}
+
+.main-cont .input-group {
+    margin-bottom: 15px;
+}
+
+.main-cont span {
+    width: 45px;
+}
+
+.kontenLayout {
+    display: none;
+}
+
+.alert {
+    margin: 0px auto;
+    margin-top: 7px;
+}
+
+.foot {
+    display: none;
+}

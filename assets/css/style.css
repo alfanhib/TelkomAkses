@@ -1,0 +1,38 @@
+.head{
+    background-color: #64B5F6;
+    padding: 15px;
+    height: auto;
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.cont{
+    min-height: auto;
+    background-color: #E3F2FD;
+    padding: 35px;
+}
+.main{
+    width : auto;
+    min-height: 500px;
+    max-height: auto;
+    margin : 0px auto;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #FAFAFA;
+}
+.main-head{
+    height: auto;
+}
+.search{
+    margin-bottom: 7px;
+}
+.main-cont{
+    min-height: 365px;
+    max-height: 365px;
+}
+.main-foot{
+    height: auto;
+}
+.foot{
+    height: 35px;
+}

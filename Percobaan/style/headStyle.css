@@ -1,0 +1,16 @@
+.head {
+    background-color: #C62828;
+}
+
+.head a:link {
+    color: #FAFAFA;
+}
+
+.head img {
+    width: 50px;
+}
+
+.head-title {
+    font-size: 25px;
+    font-family: sans-serif;
+}

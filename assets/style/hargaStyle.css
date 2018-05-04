@@ -1,0 +1,25 @@
+.main-head{
+    height: auto;
+}
+.search{
+    margin-bottom: 7px;
+}
+.main{
+    margin: 0px;
+}
+.main-cont{
+    min-height: 365px;
+    max-height: auto;
+}
+.main-foot{
+    height: auto;
+}
+.main-action{
+    padding: 7px;
+    border-radius: 10px;
+    background-color: #FAFAFA;
+    min-height: auto;
+    max-height: auto;
+    position: fixed;
+    right: 45px;
+}
